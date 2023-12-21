@@ -1,0 +1,2 @@
+2023/12/21 16:43:20.057127 logger.go:14: [Trace] Logger loaded
+2023/12/21 16:43:20.138582 app.go:22: [Trace] test
